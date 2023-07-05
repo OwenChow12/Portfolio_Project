@@ -5,6 +5,10 @@ Cleaning Data in SQL Queries using Airbnb Open Data from Kaggle
 
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Converting Data Types, User-Defined Functions
 
+Change to the excel file before transferring the file to SQL:
+removed 3 columns: instant bookable, house rules and license
+changed the last review column to short date format
+
 */
 
 
