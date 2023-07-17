@@ -29,6 +29,6 @@ In this section I will list the portfolio projects briefly describing the softwa
 
 
 
-### Contacts
+## Contacts
 - E-mail: pw.chow.12@gmail.com
 - Linkedin: 
