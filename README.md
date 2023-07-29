@@ -31,4 +31,4 @@ In this section I will list the portfolio projects briefly describing the softwa
 
 ## Contacts
 - E-mail: pw.chow.12@gmail.com
-- Linkedin: [Link](https://www.linkedin.com/in/pak-wai-chow-40200218a/)
+- Linkedin: [Pak Wai Chow](https://www.linkedin.com/in/pak-wai-chow-40200218a/)
