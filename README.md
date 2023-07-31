@@ -13,7 +13,7 @@ Hi, I am Pak Wai Chow and you can also call me Owen. I am a graduate student who
 ## Portfolio Projects
 In this section I will list the portfolio projects briefly describing the software used to solve cases.
 
-### Data Analysis Portfolio Project on Netflix data
+### Netflix Content Exploratory Data Analysis
 **Code:**[`Link`](https://github.com/OwenChow12/Portfolio_Project/blob/main/Netflix%20data%20analysis%20.sql)  
 **Presentation:**[`Tableau Public`](https://public.tableau.com/app/profile/pak.wai.chow/viz/NetflixAnalysisandDataExplorationPortfolioProject/NetflixContentbyCountries)  
 **Description:** Dataset containing data of the TV shows and Movies on Netflix is collected from [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows). This project includes the following steps: utilising SQL for data cleaning and exploration data analysis, and Tableau Public for visulisations. Insights are created and included in the visulisations.   
@@ -26,7 +26,7 @@ In this section I will list the portfolio projects briefly describing the softwa
 **Skills:** Data cleaning, Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Converting Data Types, User-Defined Functions   
 **Software:** SQL   
 
-### London Airbnb Portfolio Project 2023
+### London Airbnb Visulisations Portfolio Project 2023
 **Presentation:**[`Tableau Public`](https://public.tableau.com/app/profile/pak.wai.chow/viz/LondonAirbnbPortfolioProject2023/GeneralInformation#2)        
 **Description:** Data was collected from [Inside Airbnb](http://insideairbnb.com/get-the-data) for London, England, United Kingdom. Visulisations was made to provide insights on the London Airbnb market.      
 **Skills:** Data Visulisations, Dashboards, Worksheets, Data Analysis    
