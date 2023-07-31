@@ -134,6 +134,7 @@ ORDER BY duration
 
 
 -- The duration part is entered mistakely into the rating part 
+	
 UPDATE netflix_titles$
 SET duration = 
 	CASE 
@@ -145,6 +146,7 @@ SET duration =
 WHERE duration IS NULL
 
 -- Correct the rating part for this 3 Movies 
+	
 SELECT *
 FROM netflix_titles$
 WHERE show_id IN ('s5795', 's5814', 's5542')
@@ -251,12 +253,14 @@ SELECT *
 FROM netflix_titles$
 
 -- Space in 'Young Adults'
+	
 UPDATE netflix_titles$
 SET Target_Audience = TRIM(Target_Audience)
 WHERE Target_Audience = ' Young Adults'
 
 
 -- Drop the description column as its not likely to be used in the viz
+	
 ALTER TABLE netflix_titles$
 DROP COLUMN description
 
