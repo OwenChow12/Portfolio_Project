@@ -29,7 +29,7 @@ In this section I will list the portfolio projects briefly describing the softwa
 ### London Airbnb Portfolio Project 2023
 **Presentation:**[`Tableau Public`](https://public.tableau.com/app/profile/pak.wai.chow/viz/LondonAirbnbPortfolioProject2023/GeneralInformation#2)        
 **Description:** Data was collected from [Inside Airbnb](http://insideairbnb.com/get-the-data) for London, England, United Kingdom. Visulisations was made to provide insights on the London Airbnb market.      
-**Skills:** Dashboards, Worksheets, Data Analysis    
+**Skills:** Data Visulisations, Dashboards, Worksheets, Data Analysis    
 **Software:** Tableau Public    
 
 
