@@ -42,16 +42,14 @@ SELECT
    count(director) as TotalNotNull,
    count(1) - count(director) as TotalNull,
    100.0 * count(director) / count(1) as PercentNotNull
-FROM
-netflix_titles$
+FROM netflix_titles$
 
 SELECT
    count(1) as TotalAll,
    count(cast) as TotalNotNull,
    count(1) - count(cast) as TotalNull,
    100.0 * count(cast) / count(1) as PercentNotNull
-FROM
-netflix_titles$
+FROM netflix_titles$
 
 
 -- There are 30% Null for director
@@ -263,11 +261,11 @@ ALTER TABLE netflix_titles$
 DROP COLUMN description
 
 
+-- Transfer the data to Tableau to create visualisations
 
 
 
-
-
+-- Check Data Type
 SELECT *, DATA_TYPE
 FROM INFORMATION_SCHEMA.COLUMNS
 WHERE TABLE_NAME = 'netflix_titles$'
